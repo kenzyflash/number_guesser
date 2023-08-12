@@ -1,5 +1,5 @@
 // Generate a random number between 1 and 100
-const randomNumber = 59
+const randomNumber = 69
 
 // Get the necessary HTML elements
 const guessInput = document.getElementById('guessInput');
